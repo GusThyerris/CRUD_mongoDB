@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03bb85&height=180&section=header&animation=twinkling"/>
+
 # Sobre o código
 
 Este é um exemplo de utilização do MongoDB com JavaScript no shell do MongoDB. Ele demonstra a criação de uma coleção chamada "biblioteca" e operações básicas como inserção, consulta e exclusão de documentos.
@@ -42,9 +44,8 @@ Para executar esse código, você precisa ter o MongoDB instalado na sua máquin
 
 Lembre-se de substituir os valores conforme necessário para atender aos requisitos do seu projeto.
 
-Este é um exemplo básico e introdutório. Para mais informações, consulte a [documentação do MongoDB](https://www.mongodb.com/docs/).
 
 ## Resumo do projeto
 
-Este arquivo README.md fornece uma visão geral do código, incluindo uma descrição do que ele faz, o código em si e instruções sobre como executá-lo. Ele também inclui um [link](https://www.mongodb.com/docs/) para a documentação do MongoDB para referência adicional.
+Este é um exemplo básico e introdutório. Ele possui um arquivo README.md que fornece uma visão geral do código, incluindo uma descrição do que ele faz, o código em si e instruções sobre como executá-lo. Ele também inclui um [link](https://www.mongodb.com/docs/) para a documentação do MongoDB para referência adicional.
 
